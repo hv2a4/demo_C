@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T12:58:11.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hfDoy0rdqu74NX-71g0f" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T13:42:43.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2d9UiqvQjd_fXKxK1BYz" version="22.1.18" type="github">
   <diagram name="Trang-1" id="ytMNUhbvZa9hdQjnIFuT">
-    <mxGraphModel dx="1434" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,74 @@
         </mxCell>
         <mxCell id="L2kt6zElFAb0Tev0bYSP-6" value="Rèn luyện kỹ năng giao tiếp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-7" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="33.25" y="990" width="293.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-8" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-7">
+          <mxGeometry width="293.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-9" value="Phương pháp" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-8">
+          <mxGeometry width="146" height="33" as="geometry">
+            <mxRectangle width="146" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-10" value="Tâm thế" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-8">
+          <mxGeometry x="146" width="148" height="33" as="geometry">
+            <mxRectangle width="148" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-7">
+          <mxGeometry y="33" width="293.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-13" value="Tận dụng kho tài nguyên (sử dụng google scholar)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-12">
+          <mxGeometry width="146" height="32" as="geometry">
+            <mxRectangle width="146" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-14" value="Tự đặt mục tiêu ngắn hạn và dài hạn" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-12">
+          <mxGeometry x="146" width="148" height="32" as="geometry">
+            <mxRectangle width="148" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-7">
+          <mxGeometry y="65" width="293.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-17" value="Tận dụng chatGPT" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-16">
+          <mxGeometry width="146" height="31" as="geometry">
+            <mxRectangle width="146" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-18" value="Tập trung tránh sự sao nhãn" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-16">
+          <mxGeometry x="146" width="148" height="31" as="geometry">
+            <mxRectangle width="148" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-7">
+          <mxGeometry y="96" width="293.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-21" value="Rèn&amp;nbsp; luyện 1 cách chủ đích" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-20">
+          <mxGeometry width="146" height="33" as="geometry">
+            <mxRectangle width="146" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-22" value="Tập chung cao độ" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-20">
+          <mxGeometry x="146" width="148" height="33" as="geometry">
+            <mxRectangle width="148" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-7">
+          <mxGeometry y="129" width="293.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-25" value="Value 10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-24">
+          <mxGeometry width="146" height="31" as="geometry">
+            <mxRectangle width="146" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2kt6zElFAb0Tev0bYSP-26" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="L2kt6zElFAb0Tev0bYSP-24">
+          <mxGeometry x="146" width="148" height="31" as="geometry">
+            <mxRectangle width="148" height="31" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
